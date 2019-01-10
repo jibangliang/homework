@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project (6)",
+"dataUrl": "homework.data.unityweb",
+"asmCodeUrl": "homework.asm.code.unityweb",
+"asmMemoryUrl": "homework.asm.memory.unityweb",
+"asmFrameworkUrl": "homework.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
